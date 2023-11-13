@@ -117,7 +117,7 @@ pip install stdiomask
 
 pkg install git
 
-git clone https://github.com/idatensho/KAMADH-VIP/
+git clone https://github.com/rufine45/KAMADH-VIP/
 
 ls
 
@@ -125,4 +125,4 @@ cd KAMADH-VIP
 
 ls
 
-python VIP3-.py
+python KAMADH-VIP.py
