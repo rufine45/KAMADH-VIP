@@ -1316,7 +1316,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrKAMADH -cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/idatensho/KAMADH-VIP/blob/main/Approval.txt").text
+	r1=requests.get("https://github.com/rufine45/KAMADH-VIP/blob/main/Approval.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
@@ -1324,7 +1324,7 @@ def Subscraption():
 	else:
 		os.system("clear")
 		print(logo)
-		print("\t \033[1;32m First Get Approvel\033[1;37m ")
+		print("\t \033[1;32m First Get Approval\033[1;37m ")
 		time.sleep(1)
 		os.system("clear")
 		print(logo)
@@ -1345,7 +1345,7 @@ def Subscraption():
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Dear%20Kamadh,%20Please%20Approve%20My%20Key%20For%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Virginity%20:%20'+lol+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ah+key1
-		os.system('am start https://wa.me/+9779844835352?text=' + tks)
+		os.system('am start https://wa.me/+9779846092885?text=' + tks)
 		Subscraption()        
 Subscraption()
 
